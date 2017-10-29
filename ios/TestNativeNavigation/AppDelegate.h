@@ -7,7 +7,9 @@
  * of patent rights can be found in the PATENTS file in the same directory.
  */
 
+#import <React/RCTBridge.h>
 #import <UIKit/UIKit.h>
+@import NativeNavigation;
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
